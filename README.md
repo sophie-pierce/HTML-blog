@@ -4,15 +4,16 @@
 
 ### Goal: Create a blog using front end and back end methods
 
+Domain: Azure free domain
+
+Domain Name: PrincessPeach
+
 ![sophie pierces cyber blog](https://user-images.githubusercontent.com/109919882/216469099-32b340e1-754c-4dfc-bcae-653d82f4fb64.png)
 
 ![blogpost1](https://user-images.githubusercontent.com/109919882/216469235-fb64f156-bba1-41ea-a345-79f928c2a447.png)
 
 ![blogpost2](https://user-images.githubusercontent.com/109919882/216469555-7ee10489-8cb8-448b-bdcb-32d3a2e60869.png)
 
-Domain: Azure free domain
-
-Domain Name: PrincessPeach
 
 ### Networking
 

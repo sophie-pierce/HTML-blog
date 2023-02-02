@@ -33,7 +33,7 @@ Runtimestack:
 - PHP 7.4
 - Works on front end
 
-Navigate to <pre><code>/var/www/html/assets</code></pre>
+On Linux command line, navigate to <pre><code>/var/www/html/assets</code></pre>
 
 <pre><code>cat style.css</code></pre>
 

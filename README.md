@@ -27,7 +27,7 @@ Addresses:  23.60.91.236
           23.200.237.236
 </code></pre>
 
-## Web Development
+### Web Development
 
 Runtimestack: 
 - PHP 7.4
@@ -64,3 +64,10 @@ header {
 
 Ect.
 </code></pre>
+
+### Cloud
+
+Definitions:
+
+- Cloud Tenant: a person who purchases cloud computing resource
+- Access Policy: dictate which user, apllication, or group can alter Key Vault secrets, keys, and certificates

@@ -71,6 +71,7 @@ Definitions:
 
 - Cloud Tenant: a person who purchases cloud computing resource
 - Access Policy: dictate which user, apllication, or group can alter Key Vault secrets, keys, and certificates
+- Access policies protect against malicous attacks by ensuring *only* authorized individuals are    allowed to perform operations
 - Keys: represented as JSON Web Key objects, supports many key types and algorithm, enables the use of software-protected and HSM-protected keys
 - Secrets: passwords and database connection strings are considered secrets, the key vault accepts the data, encrypts, restores, and returns a secret identifier (ID)
 - Certificates: built on top of secrets and keys, add an automated renewal feature. An addressable key and secret are created with the same name as a certificate when a new one is created.

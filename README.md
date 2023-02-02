@@ -37,4 +37,30 @@ Navigate to <pre><code>/var/www/html/assets</code></pre>
 
 <pre><code>cat style.css</code></pre>
 
-File contains back end HTML code 
+File contains back end HTML code for the blog:
+
+<pre><code>* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica;
+  color: #082D49
+}
+
+a{
+  text-decoration: none;
+  color: #082D49
+}
+
+
+/* apply styles to <header> */
+header {
+  padding: 35px 35px;
+  background-color: Linen;
+}
+
+Ect.
+</code></pre>

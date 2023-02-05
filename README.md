@@ -1,6 +1,6 @@
 # HTML-project-1
 
-## Azure Enviorment and Cloud Security
+## Azure Enviornment and Cloud Security
 
 ### Goal: Create a blog using front end and back end methods
 
@@ -13,7 +13,6 @@ Domain Name: PrincessPeach
 ![blogpost1](https://user-images.githubusercontent.com/109919882/216469235-fb64f156-bba1-41ea-a345-79f928c2a447.png)
 
 ![blogpost2](https://user-images.githubusercontent.com/109919882/216469555-7ee10489-8cb8-448b-bdcb-32d3a2e60869.png)
-
 
 ### Networking
 
@@ -87,6 +86,7 @@ Definitions:
 
 Self-assigned certificate from Azure 
 
+![azurewebsitescert](https://user-images.githubusercontent.com/109919882/216470553-0c64b897-ade9-422c-b21c-2bd1e6f32134.png)
 
 
 Validity of certificate: 13 months

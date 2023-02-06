@@ -106,4 +106,13 @@ Azure Door enabled
 Definition:
 
 - SSL Offloading: SSL offloading is the process of removing the SSL based encryption from incoming traffic to relieve the web server from decryption of data. SSL offloading manages the encryption/decryption process on a separate device so it does not affect the web server’s performance.
+          
+- WAFs are firewalls that operate on Layer 7 and protect applications from common exploits such as SQL injection attacks.
 
+WAF Custom Rule 
+
+![WAF](https://user-images.githubusercontent.com/109919882/217040436-8e5ec3df-5260-44f2-890d-5c02361af7fa.png)
+
+![WAFcustom](https://user-images.githubusercontent.com/109919882/217040005-600d2495-ce9c-4d3d-97c2-e9e105397d64.png)
+
+![WAF2](https://user-images.githubusercontent.com/109919882/217040931-dee1fe8f-7d7f-487e-a550-8a943ecbc1a5.png)

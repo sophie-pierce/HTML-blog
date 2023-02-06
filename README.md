@@ -1,4 +1,4 @@
-# HTML-project-1
+# HTML-Blog
 
 ## Azure Enviornment and Cloud Security
 
